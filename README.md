@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to my github!
+
+I'm Diego and I love working on web technologies. I have primarily worked with Ruby (on Rails) and JavaScript, but nowadays I find myself knee-deep in Rust code most of the time.
+
+I'm currently working on building an ActixWeb/SvelteKit newsletter application called newslt.rs
+
+##
 
 <!--
 **DiegoEnriquezSerrano/DiegoEnriquezSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
