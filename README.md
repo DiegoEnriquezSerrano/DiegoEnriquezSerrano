@@ -1,8 +1,13 @@
 ## Welcome to my github!
 
-I'm Diego and I love working on web technologies. I have primarily worked with Ruby (on Rails) and JavaScript, but nowadays I find myself knee-deep in Rust code most of the time.
+:mexico: I'm **Diego**
 
-I'm currently working on building an ActixWeb/SvelteKit newsletter application called newslt.rs
+🌆 Chicago based Web Developer.
+
+🦀 Currently building with Rust. Also well-versed in Ruby, Python and Javascript (and their derivations).
+
+I primarily work on Web Servers and Clients.
+I'm currently working on building an ActixWeb/SvelteKit newsletter application called newslt.rs 📰
 
 ##
 
